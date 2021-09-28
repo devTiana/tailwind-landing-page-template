@@ -35,6 +35,7 @@ function Header() {
               </svg>
             </Link>
           </div>
+          <div>Choi</div>
 
           {/* Site navigation */}
           <nav className="flex flex-grow">
